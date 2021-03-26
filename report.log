@@ -1,0 +1,34 @@
+[code][noparse]
+No.|e| Location               | Class Type                    | Name                             | Lib.Harmony | API ---
+---+-+------------------------+-------------------------------+----------------------------------+-------------+--------
+                                      (Built-in Mods are not shown; see log for additional detail)
+ 18 * 1939169189               HideCrosswalks                   RM Crossings 3.0                 CH: 2.0.4.0    2.0.0.0   
+                   [ERR] missing: NetworkSkins[1.0.7319.2601]
+                   [ERR] missing: TrafficManager[1.0.7266.28335]
+ 54 * 2085403475               NodeController.LifeCycle         Node controller 2.2              CH: 2.0.4.0    2.0.0.0   
+                   [ERR] missing: CSUtil.Commons[1.0.7409.7567]
+                   [ERR] missing: TMPE.API[11.4.0.20026]
+                   [ERR] missing: TrafficManager[11.5.2.31529]
+                   [ERR] missing: HideCrosswalks[3.0.1.21320]
+                   [ERR] missing: CSURToolBox[2.0.5.4]
+ 55 * 2030755273               PedestrianBridge                 Automatic Pedestrian Bridge2.0                            
+                   [ERR] missing: TrafficManager[11.1.1.7476]
+ 56 * 1625704117               RoundaboutBuilder                Roundabout Builder                                        
+                   [ERR] missing: TrafficManager[1.0.7080.36181]
+                   [ERR] missing: FineRoadTool[1.0.6723.1560]
+ 57 * 694512541                PropLineTool                     Prop Line Tool                                            
+                   [ERR] missing: mscorlib[4.0.0.0]
+                   [ERR] missing: System[4.0.0.0]
+                   [ERR] missing: System.Core[4.0.0.0]
+ 58   588691634                ModsList                         Mods Listing                                              
+                   [ERR] missing: mscorlib[4.0.0.0]
+                   [ERR] missing: System.Xml[4.0.0.0]
+                   [ERR] missing: System.Core[4.0.0.0]
+ 67   2019097300               HideUnconnectedTracks.LifeCycle  RM Unconnected Tracks            CH: 2.0.4.0    2.0.0.0   
+                   [ERR] missing: TrafficManager[11.5.0.31575]
+ 68   1934023593               HideCrosswalks                   RM Crossings 3.0                 CH: 2.0.4.0    2.0.0.0   
+                   [ERR] missing: NetworkSkins[1.0.7319.2601]
+                   [ERR] missing: TrafficManager[1.0.7266.28335]
+         ---  Not shown: 63 other mods with no obvious issues ---
+
+[/noparse][/code]
